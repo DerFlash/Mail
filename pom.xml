@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.imdeity.mail</groupId>
     <artifactId>Mail</artifactId>
-    <version>0.0.1</version>
+    <version>13.02.06</version>
     <name>Mail</name>
     <repositories>
         <repository>
@@ -48,12 +48,12 @@
         <dependency>
             <groupId>org.bukkit</groupId>
             <artifactId>bukkit</artifactId>
-            <version>1.4.5-R1.0</version>
+            <version>1.4.7-R1.0</version>
         </dependency>
         <dependency>
         <groupId>com.imdeity.deityapi</groupId>
             <artifactId>DeityAPI</artifactId>
-            <version>0.0.1</version>
+            <version>13.02.06</version>
         </dependency>
     </dependencies>
 </project>
